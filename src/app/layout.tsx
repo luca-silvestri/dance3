@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Dance!³",
+  title: "dance!³",
   description: "An experiment in AI",
 };
 
