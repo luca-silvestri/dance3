@@ -1,6 +1,6 @@
 # Dance!&sup3;
 
-This project was built entirely using [Vercel V0](https://v0.dev/chat) and [OpenAI ChatGPT](https://chatgpt.com).
+This project was entirely built using [Vercel V0](https://v0.dev/chat) and [OpenAI ChatGPT](https://chatgpt.com) to explore the latest AI capabilities.
 
 It is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
