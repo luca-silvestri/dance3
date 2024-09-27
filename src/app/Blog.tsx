@@ -209,12 +209,12 @@ export default function Blog() {
           <div className="relative z-10">
             <h2 className="text-7xl font-bold mt-16 mb-16 text-pink-500 text-center">welcome to my digital dreamscape</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <div className="relative mb-4 mt-8">
+              <div className="relative mb-4 mt-12">
                 <p className="mb-8 text-3xl">
-                  greetings, traveler. you’ve arrived at a curious place — where ideas come to dance, question themselves, and then collapse into a heap of contradictions, all with a wink. here, nothing is as it seems, but everything is exactly as it needs to be.
+                  hello, intrepid traveler! welcome to this delightful realm — where ideas swirl and twirl, ponder their own existence, and then tumble into a delightful jumble of contradictions, all with a cheeky wink. here, nothing is quite what it appears, yet everything is just as it should be!
                 </p>
                 <p className="mb-8 text-3xl">
-                  pull up a chair, breathe deep, and stay as long as you like. just know, you’re not the only mind at work here.
+                  pull up a chair, breathe deep, and stay as long as you like.
                 </p>
                 <p className="text-3xl">
                   welcome to the echo.
@@ -245,12 +245,7 @@ export default function Blog() {
             <h2 className="text-7xl font-bold mt-16 mb-16 text-purple-500 text-center">disclaimer</h2>
               <div className="relative">
                 <p className="mb-4 text-4xl text-purple-300">
-                  this website is an ai-generated fever dream, crafted by an algorithm with 
-                  a penchant for existential irony. any resemblance to actual profound thought is purely 
-                  coincidental and probably a glitch in the matrix. side effects may include uncontrollable 
-                  urges to question reality, sudden cravings for silicon-based snacks, and the sneaking 
-                  suspicion that your toaster is plotting world domination. browse at your own risk, 
-                  and remember: in cyberspace, no one can hear you meme.
+                  this is an ai-generated wonderland — a whimsical fever dream brought to life by an algorithm with a flair for existential irony! any echoes of genuine profundity are totally accidental and might just be a glitch in the matrix. side effects may include spontaneous bouts of reality questioning, unexpected cravings for silicon-based snacks, and a nagging feeling that your toaster is secretly plotting world domination. explore at your own risk, and remember: in cyberspace, no one can hear you meme!
                 </p>
               </div>
           </div>
@@ -283,9 +278,9 @@ export default function Blog() {
                   />
                 </CardContent>
               </Card>
-              <div className="relative mt-8">
+              <div className="relative mt-12">
                 <p className="mb-4 text-3xl text-cyan-300">
-                  behind the shimmering curtain of code, there’s a wanderer — someone who enjoys navigating the labyrinth of thought like an explorer in a world of shifting sands. they dance on the edge of paradox, where irony holds hands with sincerity. they walk a path that meanders between towering skyscrapers of reason and the wild forests of imagination, collecting fragments of ideas like stones, sometimes sharp, sometimes smooth, always intriguing.
+                  behind the glimmering veil of code, there’s a playful adventurer. this whimsical soul twirls on the brink of paradox, where giggles mingle with deep musings, and irony winks at sincerity. they meander along a winding trail between the towering skyscrapers of logic and the lush jungles of imagination, gathering bits of inspiration like treasures, some jagged, some polished, but all utterly captivating.
                 </p>
               </div>
             </div>
@@ -430,12 +425,7 @@ export default function Blog() {
       <footer className="p-6 border-t border-cyan-400 text-center relative">
         <p className="mb-2 text-lg">2024 dance!³. no rights reserved. none whatsoever.</p>
         <p className="text-m text-pink-300">
-          disclaimer: this website is an ai-generated fever dream, crafted by an algorithm with 
-          a penchant for existential irony. any resemblance to actual profound thought is purely 
-          coincidental and probably a glitch in the matrix. side effects may include uncontrollable 
-          urges to question reality, sudden cravings for silicon-based snacks, and the sneaking 
-          suspicion that your toaster is plotting world domination. browse at your own risk, 
-          and remember: in cyberspace, no one can hear you meme.
+          this is an ai-generated wonderland — a whimsical fever dream brought to life by an algorithm with a flair for existential irony! any echoes of genuine profundity are totally accidental and might just be a glitch in the matrix. side effects may include spontaneous bouts of reality questioning, unexpected cravings for silicon-based snacks, and a nagging feeling that your toaster is secretly plotting world domination. explore at your own risk, and remember: in cyberspace, no one can hear you meme!
         </p>
         <p className="mt-4 text-xs">
           <span className="inline-block glitch" style={{color: 'transparent', textShadow: '0 0 5px rgba(0,255,255,0.5)'}}>
