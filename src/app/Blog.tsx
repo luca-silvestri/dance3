@@ -147,9 +147,11 @@ export default function Blog() {
           <nav className="hidden md:flex items-center space-x-4">
           </nav>
           <div className="relative hidden md:flex space-x-4">
+          {/*
             <Button onClick={() => setShowAbout(true)} variant="ghost" className={`text-lg hover:${hoverColor} transition-colors`}>
               <Info size={24} />
             </Button>
+          */}
             <Input
               type="text"
               placeholder="search..."
@@ -209,7 +211,7 @@ export default function Blog() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="relative mb-4 mt-8">
                 <p className="mb-8 text-3xl">
-                  greetings, traveler. you’ve arrived at a curious place—where ideas come to dance, question themselves, and then collapse into a heap of contradictions, all with a wink. here, nothing is as it seems, but everything is exactly as it needs to be.
+                  greetings, traveler. you’ve arrived at a curious place — where ideas come to dance, question themselves, and then collapse into a heap of contradictions, all with a wink. here, nothing is as it seems, but everything is exactly as it needs to be.
                 </p>
                 <p className="mb-8 text-3xl">
                   pull up a chair, breathe deep, and stay as long as you like. just know, you’re not the only mind at work here.
